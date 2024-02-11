@@ -23,4 +23,4 @@ Desfrute da conveniência de ver os valores se ajustarem automaticamente com bas
 Navegue por nosso interface intuitiva e amigável para uma experiência de compra descomplicada. Seja você um amante clássico de sorvetes ou um explorador de sabores, a Sorveteria X garante que todos os clientes encontrem satisfação em cada colherada.
 Prepare-se para uma jornada gustativa única na Sorveteria X, onde a personalização encontra o sabor excepcional. Crie o seu sorvete dos sonhos e sinta-se à vontade para se deliciar com uma experiência única de sobremesa.
 
-OBS Sinta-se à vontade para sugerir críticas, sugestões e melhoria das funcionalidades!!
+OBS Sinta-se à vontade para críticas, sugestões e melhoria das funcionalidades!!
