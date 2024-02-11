@@ -1,0 +1,21 @@
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.csprojResolveAssemblyReference.cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.FrmSorveteria.resources
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.csproj.GenerateResource.Cache
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Listao02\Listao02\bin\Debug\Listao02.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Listao02\Listao02\bin\Debug\Listao02.pdb
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.exe
+C:\Users\POLIMIG\Documents\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.pdb
+E:\Nova pasta\Projetos\SharpDevelop Projects\Listao02\Listao02\bin\Debug\Listao02.exe
+E:\Nova pasta\Projetos\SharpDevelop Projects\Listao02\Listao02\bin\Debug\Listao02.pdb
+E:\Nova pasta\Projetos\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.csprojResolveAssemblyReference.cache
+E:\Nova pasta\Projetos\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.FrmSorveteria.resources
+E:\Nova pasta\Projetos\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.csproj.GenerateResource.Cache
+E:\Nova pasta\Projetos\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.exe
+E:\Nova pasta\Projetos\SharpDevelop Projects\Listao02\Listao02\obj\Debug\Listao02.pdb
+C:\Users\claud\Documents\Listao02\Listao02\bin\Debug\Listao02.exe
+C:\Users\claud\Documents\Listao02\Listao02\bin\Debug\Listao02.pdb
+C:\Users\claud\Documents\Listao02\Listao02\obj\Debug\Listao02.csprojResolveAssemblyReference.cache
+C:\Users\claud\Documents\Listao02\Listao02\obj\Debug\Listao02.FrmSorveteria.resources
+C:\Users\claud\Documents\Listao02\Listao02\obj\Debug\Listao02.csproj.GenerateResource.Cache
+C:\Users\claud\Documents\Listao02\Listao02\obj\Debug\Listao02.exe
+C:\Users\claud\Documents\Listao02\Listao02\obj\Debug\Listao02.pdb
